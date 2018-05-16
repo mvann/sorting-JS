@@ -1,5 +1,5 @@
 # sorting-JS
-Implementation and visualization of three n^2 sorting algorithms in Javascript.
+Implementation and visualization of three n^2 sorting algorithms in Javascript.  
 Press:  
 s to shuffle  
 i to insertion sort  
